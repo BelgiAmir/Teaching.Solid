@@ -1,0 +1,6 @@
+c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching.Solid\bin\Debug\Teaching.Solid.OpenClose.Before.exe.config
+c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching.Solid\bin\Debug\Teaching.Solid.OpenClose.Before.exe
+c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching.Solid\bin\Debug\Teaching.Solid.OpenClose.Before.pdb
+c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching.Solid\obj\Debug\Teaching.Solid.OpenClose.Before.csprojResolveAssemblyReference.cache
+c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching.Solid\obj\Debug\Teaching.Solid.OpenClose.Before.exe
+c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching.Solid\obj\Debug\Teaching.Solid.OpenClose.Before.pdb
