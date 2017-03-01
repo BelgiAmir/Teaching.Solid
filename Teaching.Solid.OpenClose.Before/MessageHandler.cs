@@ -2,23 +2,23 @@
 
 namespace Teaching.Solid.OpenClose.Before
 {
-    public class MessageHandler
+    class MessageHandler
     {
-        public void HandaleMessage(Message message)
+        public void HandleMessage(Message message)
         {
             if(message.Type == MessageType.Text)
             {
-                Console.WriteLine("Displaying text message");
+                Console.WriteLine($"Displaying text message: {message.Content}");
             }
 
             else if(message.Type == MessageType.Image)
             {
-                Console.WriteLine("Displaying image on screen");
+                Console.WriteLine($"Displaying image on screen: {message.Content}");
             }
 
             else if (message.Type == MessageType.Voice)
             {
-                Console.WriteLine("Playing message");
+                Console.WriteLine($"Playing message: {message.Content}");
             }
         }
     }

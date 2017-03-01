@@ -4,3 +4,11 @@ c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching
 c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose\obj\Debug\Teaching.Solid.OpenClose.After.csprojResolveAssemblyReference.cache
 c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose\obj\Debug\Teaching.Solid.OpenClose.exe
 c:\users\belgiamir\documents\visual studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose\obj\Debug\Teaching.Solid.OpenClose.pdb
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.After\obj\Debug\Teaching.Solid.OpenClose.After.csprojResolveAssemblyReference.cache
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.After\obj\Debug\Teaching.Solid.OpenClose.exe
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.After\obj\Debug\Teaching.Solid.OpenClose.pdb
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.After\bin\Debug\Teaching.Solid.OpenClose.exe.config
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.After\bin\Debug\Teaching.Solid.OpenClose.exe
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.After\bin\Debug\Teaching.Solid.OpenClose.pdb
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.After\bin\Debug\Teaching.Solid.OpenClose.Before.Common.dll
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.After\bin\Debug\Teaching.Solid.OpenClose.Before.Common.pdb

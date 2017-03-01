@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BC87529B-8473-49F0-9C8D-09FAAA2E6DE5}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Teaching.Solid.OpenClose</RootNamespace>
     <AssemblyName>Teaching.Solid.OpenClose</AssemblyName>
@@ -46,10 +46,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ImageMessageHandler.cs" />
+    <Compile Include="IMessageHandler.cs" />
+    <Compile Include="MessageHandler.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextMessageHandler.cs" />
+    <Compile Include="VoiceMessageHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Teaching.Solid.OpenClose.Before.Common\Teaching.Solid.OpenClose.Before.Common.csproj">
+      <Project>{c8a0e145-488f-4698-9fa0-5002f406fa4c}</Project>
+      <Name>Teaching.Solid.OpenClose.Before.Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

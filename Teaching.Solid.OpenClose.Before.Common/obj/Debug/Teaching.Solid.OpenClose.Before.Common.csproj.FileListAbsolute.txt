@@ -1,0 +1,5 @@
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.Before.Common\bin\Debug\Teaching.Solid.OpenClose.Before.Common.dll.config
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.Before.Common\bin\Debug\Teaching.Solid.OpenClose.Before.Common.dll
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.Before.Common\bin\Debug\Teaching.Solid.OpenClose.Before.Common.pdb
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.Before.Common\obj\Debug\Teaching.Solid.OpenClose.Before.Common.dll
+C:\Users\BelgiAmir\Documents\Visual Studio 2015\Projects\Teaching.Solid\Teaching.Solid.OpenClose.Before.Common\obj\Debug\Teaching.Solid.OpenClose.Before.Common.pdb
